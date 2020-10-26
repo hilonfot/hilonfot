@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on game
+- 🔭 I’m currently working on game developer
 - 🌱 I’m currently learning golang
 - 💬 Ask me about 522923080@qq.com
 <!--
