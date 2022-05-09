@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on game developer
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently use golang
 - 💬 
 <!--
 **hilonfot/hilonfot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
